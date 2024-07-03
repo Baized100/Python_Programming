@@ -1,4 +1,4 @@
-'''num1=int(input("Enter your fast number"))
+num1=int(input("Enter your fast number"))
 num2=int(input("enter your second number"))
 sum= num1+num2
 print(sum)
@@ -26,7 +26,7 @@ print(min(20,10))
 #type funcation
 
 num=20
-print(type(num))'''
+print(type(num))
 
 
 
