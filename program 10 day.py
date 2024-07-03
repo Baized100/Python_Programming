@@ -1,6 +1,6 @@
 #exercise 1
 
-'''fruits=["mango","banana","carry"]
+fruits=["mango","banana","carry"]
 print(fruits[1])
 
 #exercise 2
@@ -19,6 +19,6 @@ print(fruits)
 
 fruits=["mango","banana","sofeda"]
 fruits.remove("banana")
-print(fruits)'''
+print(fruits)
 
 
