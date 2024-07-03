@@ -1,4 +1,4 @@
-'''#numbers
+#numbers
 bi=34
 print(type(bi))
 
@@ -24,7 +24,7 @@ print(x==y)
 #string formating
 num1=12
 num2=13
-print(f"this result{num1+num2}"'''
+print(f"this result{num1+num2}
 
 username ="baizid"
 roll=12
