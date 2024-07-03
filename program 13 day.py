@@ -1,5 +1,5 @@
 #python set 
-'''myet={1,"tru","baizid","false"}
+myet={1,"tru","baizid","false"}
 print(type(myet))
 
 myset={1,2,3,4,4,5,56,56}
@@ -53,7 +53,7 @@ print(myset)
 #set loop
 myset={"bangla","english","math","rahim"}
 for i in myset:
-    print(i)'''
+    print(i)
 
 #join set
 myset={"bangla","english","math","rahim"}
