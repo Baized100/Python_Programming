@@ -1,4 +1,4 @@
-'''#binary types
+#binary types
 list=[1,23,45,67,54,3,8,9,5,3,4]
 b=bytes(list)
 print(type(b))
@@ -17,7 +17,7 @@ print(type(x))
 #list data
 
 li=["baizid","shamim","shakwat","baby"]
-print(li[1])'''
+print(li[1])
 
 #tuple
 li=("1","4","5","54")
