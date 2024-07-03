@@ -1,4 +1,4 @@
-'''print("baizid")
+print("baizid")
 
 #python comment
 
