@@ -1,4 +1,4 @@
-'''#update tuple
+#update tuple
 thisTupple=("baizid","shimul","karim","arnob")
 y= list(thisTupple)
 y.append("hablu")
