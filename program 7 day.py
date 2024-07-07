@@ -1,4 +1,4 @@
-'''#acess list item
+#acess list item
 li=["baizid ","rahim","karim",]
 print(li[1])
 #change list
