@@ -1,4 +1,4 @@
-'''#for loop
+#for loop
 
 list=["tasen","mohammad","taher","arju"]
 for baizid in list:
